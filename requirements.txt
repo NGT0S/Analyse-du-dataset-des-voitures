@@ -1,6 +1,4 @@
-numpy
-seaborn
-pandas
-streamlit
-sklearn.cluster 
-sklearn
+matplotlib==3.7.1
+pandas==1.5.3
+seaborn==0.13.0
+streamlit==1.28.0
